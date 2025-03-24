@@ -22,5 +22,4 @@ const arr5 = makeArray(["Earth", "Jupiter"], ["Neptune", "Uranus"], 4);
 console.log(arr5);
 const arr6 = makeArray(["Earth", "Jupiter"], ["Neptune", "Uranus", "Venus"], 0);
 console.log(arr6);
-const arr7 = makeArray();
-console.log(arr7);
+
